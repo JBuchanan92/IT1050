@@ -1,0 +1,14 @@
+C:\Users\S00927876\Downloads\IT1050-master\IT1050-master\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\S00927876\Downloads\IT1050-master\IT1050-master\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\S00927876\Downloads\IT1050-master\IT1050-master\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\S00927876\Downloads\IT1050-master\IT1050-master\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\S00927876\Downloads\IT1050-master\IT1050-master\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\S00927876\Downloads\IT1050-master\IT1050-master\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\S00927876\Downloads\IT1050-master\IT1050-master\Assignment1\obj\Debug\Assignment1.pdb
+D:\IT1050-master\Assignment1\bin\Debug\Assignment1.exe.config
+D:\IT1050-master\Assignment1\bin\Debug\Assignment1.exe
+D:\IT1050-master\Assignment1\bin\Debug\Assignment1.pdb
+D:\IT1050-master\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+D:\IT1050-master\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\IT1050-master\Assignment1\obj\Debug\Assignment1.exe
+D:\IT1050-master\Assignment1\obj\Debug\Assignment1.pdb
