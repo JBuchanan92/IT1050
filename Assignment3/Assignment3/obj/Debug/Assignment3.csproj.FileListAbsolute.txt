@@ -1,0 +1,7 @@
+C:\Users\alkem\source\repos\Assignment3Solution\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\alkem\source\repos\Assignment3Solution\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\alkem\source\repos\Assignment3Solution\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\alkem\source\repos\Assignment3Solution\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\alkem\source\repos\Assignment3Solution\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\alkem\source\repos\Assignment3Solution\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\alkem\source\repos\Assignment3Solution\Assignment3\obj\Debug\Assignment3.pdb
