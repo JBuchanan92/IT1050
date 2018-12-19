@@ -1,0 +1,7 @@
+C:\Users\alkem\source\repos\Assigment4Solution\Assigment4\bin\Debug\Assigment4.exe.config
+C:\Users\alkem\source\repos\Assigment4Solution\Assigment4\bin\Debug\Assigment4.exe
+C:\Users\alkem\source\repos\Assigment4Solution\Assigment4\bin\Debug\Assigment4.pdb
+C:\Users\alkem\source\repos\Assigment4Solution\Assigment4\obj\Debug\Assigment4.csprojAssemblyReference.cache
+C:\Users\alkem\source\repos\Assigment4Solution\Assigment4\obj\Debug\Assigment4.csproj.CoreCompileInputs.cache
+C:\Users\alkem\source\repos\Assigment4Solution\Assigment4\obj\Debug\Assigment4.exe
+C:\Users\alkem\source\repos\Assigment4Solution\Assigment4\obj\Debug\Assigment4.pdb
